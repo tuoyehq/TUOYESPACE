@@ -1,1 +1,1 @@
-Fix: restore original image639.jpg, use image639aa.jpg for FILORGA Shanghai
+Mars China: set image657.jpg as thumbnail
