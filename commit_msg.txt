@@ -1,1 +1,1 @@
-Update stats to 500+, add lightbox nav and back-to-top
+Click black area in overlay to close back
