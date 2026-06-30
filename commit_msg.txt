@@ -1,1 +1,1 @@
-Fix: properly apply mobile CSS without breaking desktop
+Update stats to 500+, add lightbox nav and back-to-top
