@@ -1,0 +1,1667 @@
+[
+  {
+    "name": "CERI Showroom",
+    "cn": "中冶品牌展厅",
+    "section": "showroom",
+    "images": [
+      "image30.jpg",
+      "image31.jpg",
+      "image27.jpg",
+      "image32.jpg",
+      "image33.jpg",
+      "image34.jpeg"
+    ],
+    "slideCount": 1,
+    "lastText": "CERI Showroom 中冶品牌展厅",
+    "slideNum": 8
+  },
+  {
+    "name": "Xingyang Digital Economy Industrial Park",
+    "cn": "荥阳数字经济产业园",
+    "section": "showroom",
+    "images": [
+      "image35.jpeg",
+      "image36.jpg",
+      "image37.jpg",
+      "image38.jpg",
+      "image39.jpg",
+      "image40.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "Xingyang Digital Economy Industrial Park 荥阳数字经济产业园",
+    "slideNum": 9
+  },
+  {
+    "name": "CHN ENERGY Showroom",
+    "cn": "国家能源集团展厅",
+    "section": "showroom",
+    "images": [
+      "image41.png",
+      "image42.png",
+      "image43.png",
+      "image44.png",
+      "image45.png",
+      "image46.png"
+    ],
+    "slideCount": 1,
+    "lastText": "CHN ENERGY Showroom 国家能源集团展厅",
+    "slideNum": 10
+  },
+  {
+    "name": "CERC Showroom",
+    "cn": "莱斯信息展厅",
+    "section": "showroom",
+    "images": [
+      "image47.jpg",
+      "image48.jpg",
+      "image49.png",
+      "image50.png",
+      "image51.png",
+      "image52.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "CERC Showroom 莱斯信息展厅",
+    "slideNum": 11
+  },
+  {
+    "name": "SUGON Showroom",
+    "cn": "中科曙光青岛展厅",
+    "section": "showroom",
+    "images": [
+      "image53.jpg",
+      "image54.jpg",
+      "image55.jpg",
+      "image56.jpg",
+      "image57.jpg",
+      "image58.jpg",
+      "image59.jpg",
+      "image60.jpg",
+      "image61.jpg",
+      "image62.jpg",
+      "image63.jpg",
+      "image64.jpg"
+    ],
+    "slideCount": 2,
+    "lastText": "SUGON Showroom 中科曙光青岛展厅",
+    "slideNum": 12
+  },
+  {
+    "name": "BANK OF HEBEI SHOWROOM",
+    "cn": "河北银行展厅",
+    "section": "showroom",
+    "images": [
+      "image65.jpg",
+      "image66.jpg",
+      "image67.jpg",
+      "image68.jpg",
+      "image69.jpg",
+      "image70.jpg",
+      "image71.jpg",
+      "image72.jpg",
+      "image73.jpg",
+      "image74.jpg",
+      "image75.jpg",
+      "image76.jpg",
+      "image77.jpg",
+      "image78.jpg",
+      "image79.jpg",
+      "image80.jpg",
+      "image81.jpg",
+      "image82.jpg"
+    ],
+    "slideCount": 3,
+    "lastText": "BANK OF HEBEI SHOWROOM 河北银行展厅",
+    "slideNum": 14
+  },
+  {
+    "name": "H3C SHOWROOM",
+    "cn": "新华三展厅",
+    "section": "showroom",
+    "images": [
+      "image83.jpg",
+      "image84.jpg",
+      "image85.jpg",
+      "image86.jpg",
+      "image87.jpg",
+      "image88.jpg",
+      "image89.jpg",
+      "image90.jpg",
+      "image91.jpg",
+      "image92.jpg",
+      "image93.jpg",
+      "image94.jpg"
+    ],
+    "slideCount": 2,
+    "lastText": "H3C SHOWROOM 新华三展厅",
+    "slideNum": 17
+  },
+  {
+    "name": "BANK OF NANJING SHOWROOM",
+    "cn": "南京银行展厅",
+    "section": "showroom",
+    "images": [
+      "image95.jpg",
+      "image96.jpg",
+      "image97.jpg",
+      "image98.jpg",
+      "image99.jpg",
+      "image99.jpg",
+      "image100.jpg",
+      "image101.jpg",
+      "image102.jpg",
+      "image103.jpg",
+      "image104.jpg",
+      "image105.jpg"
+    ],
+    "slideCount": 2,
+    "lastText": "BANK OF NANJING SHOWROOM 南京银行展厅",
+    "slideNum": 19
+  },
+  {
+    "name": "CECLOUD SHOWROOM",
+    "cn": "中国电子云展厅",
+    "section": "showroom",
+    "images": [
+      "image106.jpg",
+      "image107.jpg",
+      "image108.jpg",
+      "image109.jpg",
+      "image110.jpg",
+      "image111.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "CECLOUD SHOWROOM 中国电子云展厅",
+    "slideNum": 21
+  },
+  {
+    "name": "CERS SHOWROOM",
+    "cn": "莱斯信息智慧治理展厅",
+    "section": "showroom",
+    "images": [
+      "image112.jpg",
+      "image113.jpg",
+      "image114.jpg",
+      "image115.jpg",
+      "image116.jpg",
+      "image117.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "CERS SHOWROOM 莱斯信息智慧治理展厅",
+    "slideNum": 22
+  },
+  {
+    "name": "KEXING BIOPHARM SHOWROOM",
+    "cn": "科兴制药品牌展厅",
+    "section": "showroom",
+    "images": [
+      "image118.jpg",
+      "image119.jpg",
+      "image120.jpg",
+      "image121.jpg",
+      "image122.jpg",
+      "image123.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "KEXING BIOPHARM SHOWROOM 科兴制药品牌展厅",
+    "slideNum": 23
+  },
+  {
+    "name": "MIGU SHOWROOM",
+    "cn": "咪咕元宇宙展厅",
+    "section": "showroom",
+    "images": [
+      "image124.jpg",
+      "image125.jpg",
+      "image126.jpg",
+      "image127.jpg",
+      "image128.jpg",
+      "image129.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "MIGU SHOWROOM 咪咕元宇宙展厅",
+    "slideNum": 24
+  },
+  {
+    "name": "DONGYIUNG HIGH-TECH",
+    "cn": "东营高新区展厅",
+    "section": "showroom",
+    "images": [
+      "image130.jpg",
+      "image131.jpg",
+      "image132.jpg",
+      "image133.jpg",
+      "image134.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "东营高新区展厅 DONGYIUNG HIGH-TECH",
+    "slideNum": 25
+  },
+  {
+    "name": "SHANGQIU 5G SHOWROOM",
+    "cn": "商丘移动 5G 展厅",
+    "section": "showroom",
+    "images": [
+      "image135.jpg",
+      "image136.jpg",
+      "image137.jpeg",
+      "image138.jpg",
+      "image139.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "SHANGQIU 5G SHOWROOM 商丘移动 5G 展厅",
+    "slideNum": 26
+  },
+  {
+    "name": "Nanjing Mobile 5G Ecological Experience Center",
+    "cn": "南京移动 5G 全生态体验中心",
+    "section": "showroom",
+    "images": [
+      "image140.png"
+    ],
+    "slideCount": 1,
+    "lastText": "Nanjing Mobile 5G Ecological Experience Center 南京移动 5G 全生态体验中心",
+    "slideNum": 27
+  },
+  {
+    "name": "China Artificial Intelligence Valley Al Showroom",
+    "cn": "中国智谷人工智能展厅",
+    "section": "showroom",
+    "images": [
+      "image141.jpg",
+      "image142.jpg",
+      "image143.jpg",
+      "image144.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "China Artificial Intelligence Valley Al Showroom 中国智谷人工智能展厅",
+    "slideNum": 28
+  },
+  {
+    "name": "Cloudcity Showroom",
+    "cn": "余姚云城规划馆",
+    "section": "showroom",
+    "images": [
+      "image145.jpg",
+      "image146.jpg",
+      "image147.jpg",
+      "image148.jpg",
+      "image149.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "Cloudcity Showroom 余姚云城规划馆",
+    "slideNum": 29
+  },
+  {
+    "name": "Jiashan Urban Redevelopment Gallery",
+    "cn": "嘉善城市规划馆",
+    "section": "showroom",
+    "images": [
+      "image150.jpg",
+      "image151.jpg",
+      "image28.jpeg",
+      "image152.jpg",
+      "image153.jpg",
+      "image154.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "Jiashan Urban Redevelopment Gallery 嘉善城市规划馆",
+    "slideNum": 30
+  },
+  {
+    "name": "Central China Showroom",
+    "cn": "河南建业展示中心",
+    "section": "showroom",
+    "images": [
+      "image155.jpeg",
+      "image156.png",
+      "image157.png",
+      "image158.png",
+      "image159.png",
+      "image160.jpg",
+      "image161.jpg",
+      "image162.jpg",
+      "image163.jpg",
+      "image164.jpg",
+      "image165.jpg"
+    ],
+    "slideCount": 2,
+    "lastText": "Central China Showroom 河南建业展示中心",
+    "slideNum": 31
+  },
+  {
+    "name": "Taihu Lake Museum",
+    "cn": "太湖博物馆",
+    "section": "showroom",
+    "images": [
+      "image166.jpeg",
+      "image167.jpeg",
+      "image168.jpeg",
+      "image169.jpeg",
+      "image170.jpeg",
+      "image171.jpeg",
+      "image172.jpeg",
+      "image173.jpeg",
+      "image174.jpeg",
+      "image175.jpeg",
+      "image176.jpeg",
+      "image177.jpeg"
+    ],
+    "slideCount": 2,
+    "lastText": "Taihu Lake Museum 太湖博物馆",
+    "slideNum": 33
+  },
+  {
+    "name": "Tai Chi Showroom",
+    "cn": "电影小镇太极展馆",
+    "section": "showroom",
+    "images": [
+      "image178.jpg",
+      "image179.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "Tai Chi Showroom 电影小镇太极展馆",
+    "slideNum": 35
+  },
+  {
+    "name": "SRT Media Studio",
+    "cn": "石家庄融媒体演播厅",
+    "section": "showroom",
+    "images": [
+      "image180.jpg",
+      "image181.jpg",
+      "image182.jpg",
+      "image183.jpg",
+      "image184.jpg",
+      "image185.jpg",
+      "image186.jpeg"
+    ],
+    "slideCount": 1,
+    "lastText": "SRT Media Studio 石家庄融媒体演播厅",
+    "slideNum": 36
+  },
+  {
+    "name": "Dachang Innovation Center",
+    "cn": "大厂创新中心",
+    "section": "showroom",
+    "images": [
+      "image187.jpg",
+      "image188.jpg",
+      "image189.jpg",
+      "image190.jpg",
+      "image191.jpg",
+      "image192.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "Dachang Innovation Center 大厂创新中心",
+    "slideNum": 37
+  },
+  {
+    "name": "CTSEC Showroom",
+    "cn": "财通证券品牌陈列馆",
+    "section": "showroom",
+    "images": [
+      "image193.jpg",
+      "image194.jpg",
+      "image195.jpg",
+      "image196.jpeg",
+      "image197.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "CTSEC Showroom 财通证券品牌陈列馆",
+    "slideNum": 38
+  },
+  {
+    "name": "Haier Showroom",
+    "cn": "海尔海外冰冷展厅",
+    "section": "showroom",
+    "images": [
+      "image198.jpg",
+      "image199.jpg",
+      "image200.jpg",
+      "image201.jpg",
+      "image202.jpg",
+      "image203.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "Haier Showroom 海尔海外冰冷展厅",
+    "slideNum": 39
+  },
+  {
+    "name": "Qualcomm Showroom",
+    "cn": "高通品牌展厅",
+    "section": "showroom",
+    "images": [
+      "image204.jpg",
+      "image205.jpg",
+      "image206.jpg",
+      "image207.jpg",
+      "image208.jpg",
+      "image209.jpg",
+      "image210.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "Qualcomm Showroom 高通品牌展厅",
+    "slideNum": 40
+  },
+  {
+    "name": "Expo Pavilion In Inner Mongolia",
+    "cn": "世博会内蒙古馆",
+    "section": "showroom",
+    "images": [
+      "image211.jpg",
+      "image212.jpg",
+      "image213.jpg",
+      "image214.jpeg",
+      "image215.jpg",
+      "image216.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "世博会内蒙古馆 Expo Pavilion In Inner Mongolia",
+    "slideNum": 41
+  },
+  {
+    "name": "SRCB Retail Outlets",
+    "cn": "深圳农商行网点",
+    "section": "interior",
+    "images": [
+      "image217.jpg",
+      "image218.jpg",
+      "image219.jpg",
+      "image220.jpg",
+      "image221.jpg",
+      "image222.jpg",
+      "image223.jpg"
+    ],
+    "slideCount": 3,
+    "lastText": "SRCB Retail Outlets 深圳农商行网点",
+    "slideNum": 43
+  },
+  {
+    "name": "Sell Coffee Self-service Area",
+    "cn": "咖啡自助售卖区",
+    "section": "interior",
+    "images": [
+      "image224.jpg",
+      "image225.jpg",
+      "image226.jpg",
+      "image227.jpg",
+      "image228.jpg",
+      "image229.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "Sell Coffee Self-service Area 咖啡自助售卖区",
+    "slideNum": 46
+  },
+  {
+    "name": "SRCB IP STORE",
+    "cn": "深圳农商行 IP 形象店",
+    "section": "interior",
+    "images": [
+      "image230.jpg",
+      "image231.jpg",
+      "image232.jpg",
+      "image233.jpg",
+      "image234.jpg",
+      "image235.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "SRCB IP STORE 深圳农商行 IP 形象店",
+    "slideNum": 47
+  },
+  {
+    "name": "CATL Power Station",
+    "cn": "宁德时代换电站",
+    "section": "interior",
+    "images": [
+      "image236.png",
+      "image237.png",
+      "image237.png"
+    ],
+    "slideCount": 1,
+    "lastText": "CATL Power Station 宁德时代换电站",
+    "slideNum": 48
+  },
+  {
+    "name": "CZBANK POP-UP SHOP",
+    "cn": "浙商银行快闪店",
+    "section": "interior",
+    "images": [
+      "image238.jpeg"
+    ],
+    "slideCount": 1,
+    "lastText": "CZBANK POP-UP SHOP 浙商银行快闪店",
+    "slideNum": 49
+  },
+  {
+    "name": "SHANGHAI AIRPORT POP-UP SHOP",
+    "cn": "上海机场快闪店",
+    "section": "interior",
+    "images": [
+      "image239.png",
+      "image240.png",
+      "image241.png",
+      "image242.png",
+      "image243.png",
+      "image244.png"
+    ],
+    "slideCount": 1,
+    "lastText": "SHANGHAI AIRPORT POP-UP SHOP 上海机场快闪店",
+    "slideNum": 50
+  },
+  {
+    "name": "HUATAI SECURITIES",
+    "cn": "华泰证券",
+    "section": "interior",
+    "images": [
+      "image245.jpg",
+      "image246.jpg",
+      "image247.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "HUATAI SECURITIES 华泰证券",
+    "slideNum": 51
+  },
+  {
+    "name": "Midea Showroom",
+    "cn": "美的终端店面",
+    "section": "interior",
+    "images": [
+      "image248.jpg",
+      "image249.jpg",
+      "image250.jpg",
+      "image251.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "Midea Showroom 美的终端店面",
+    "slideNum": 52
+  },
+  {
+    "name": "Jinmao Property Service Center",
+    "cn": "金茂物业服务中心",
+    "section": "interior",
+    "images": [
+      "image252.jpg",
+      "image253.jpg",
+      "image254.jpg",
+      "image255.jpg",
+      "image256.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "Jinmao Property Service Center 金茂物业服务中心",
+    "slideNum": 53
+  },
+  {
+    "name": "Tiger Global Office",
+    "cn": "老虎基金办公室",
+    "section": "interior",
+    "images": [
+      "image257.jpg",
+      "image258.jpg",
+      "image259.jpg",
+      "image260.jpg",
+      "image261.jpg",
+      "image262.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "老虎基金办公室 Tiger Global Office",
+    "slideNum": 54
+  },
+  {
+    "name": "China Pavilion",
+    "cn": "一带一路 孔子学院中国馆（印尼、塞内加尔、白俄罗斯）",
+    "section": "interior",
+    "images": [
+      "image263.jpeg",
+      "image264.jpeg",
+      "image265.jpeg",
+      "image266.jpeg",
+      "image267.jpeg",
+      "image268.jpeg",
+      "image269.png",
+      "image270.png",
+      "image271.png",
+      "image272.png",
+      "image273.png",
+      "image274.png"
+    ],
+    "slideCount": 2,
+    "lastText": "一带一路 孔子学院中国馆（印尼、塞内加尔、白俄罗斯） China Pavilion",
+    "slideNum": 55
+  },
+  {
+    "name": "China Pavilion",
+    "cn": "一带一路 孔子学院中国馆（斯里兰卡）",
+    "section": "interior",
+    "images": [
+      "image275.jpg",
+      "image276.jpg",
+      "image277.jpg",
+      "image278.jpg",
+      "image279.jpg",
+      "image280.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "一带一路 孔子学院中国馆（斯里兰卡） China Pavilion",
+    "slideNum": 57
+  },
+  {
+    "name": "MIYE FARM",
+    "cn": "觅野牧场景区规划",
+    "section": "landscape architectural",
+    "images": [
+      "image281.png",
+      "image282.png",
+      "image283.png",
+      "image284.jpg",
+      "image285.jpg",
+      "image286.png",
+      "image287.png",
+      "image288.jpg",
+      "image289.png",
+      "image290.png",
+      "image291.png",
+      "image292.png",
+      "image293.png",
+      "image294.jpg",
+      "image295.jpg",
+      "image296.jpg",
+      "image297.jpg",
+      "image298.jpg",
+      "image299.jpg",
+      "image300.jpg",
+      "image301.jpg",
+      "image302.jpg",
+      "image303.jpg",
+      "image304.jpg",
+      "image305.jpg",
+      "image306.jpg",
+      "image307.jpg",
+      "image308.jpg",
+      "image309.jpg",
+      "image310.jpg",
+      "image311.jpg",
+      "image312.jpg",
+      "image313.jpg",
+      "image314.jpg",
+      "image315.jpg",
+      "image316.jpg",
+      "image317.jpg",
+      "image318.jpg",
+      "image319.jpg",
+      "image320.png",
+      "image321.png",
+      "image322.jpg",
+      "image323.jpg",
+      "image324.jpg",
+      "image325.jpg",
+      "image326.jpg",
+      "image327.jpg",
+      "image328.jpg",
+      "image329.jpg",
+      "image330.jpg",
+      "image331.jpg",
+      "image332.jpg",
+      "image333.jpg",
+      "image334.jpg",
+      "image335.jpg",
+      "image336.jpg",
+      "image337.jpg",
+      "image338.jpg",
+      "image339.jpg",
+      "image340.jpg",
+      "image341.jpg",
+      "image342.jpg",
+      "image343.jpg",
+      "image344.jpg",
+      "image345.jpg",
+      "image346.jpg",
+      "image347.jpg",
+      "image348.jpg",
+      "image349.jpg",
+      "image350.jpg",
+      "image351.jpg",
+      "image352.jpg",
+      "image353.jpg",
+      "image354.jpg",
+      "image355.jpg",
+      "image356.jpg",
+      "image357.jpg",
+      "image358.jpg",
+      "image359.jpg",
+      "image360.jpg",
+      "image361.jpg",
+      "image362.jpg",
+      "image363.jpg"
+    ],
+    "slideCount": 18,
+    "lastText": "MIYE FARM 觅野牧场景区规划",
+    "slideNum": 59
+  },
+  {
+    "name": "Camp Plan And Design",
+    "cn": "露营地规划示意图",
+    "section": "landscape architectural",
+    "images": [
+      "image364.png",
+      "image365.png"
+    ],
+    "slideCount": 1,
+    "lastText": "Camp Plan And Design 露营地规划示意图",
+    "slideNum": 77
+  },
+  {
+    "name": "Beijing Homestay",
+    "cn": "北京民宿",
+    "section": "landscape architectural",
+    "images": [
+      "image366.jpg",
+      "image367.jpeg",
+      "image368.jpeg",
+      "image369.jpeg",
+      "image370.jpg",
+      "image371.png"
+    ],
+    "slideCount": 1,
+    "lastText": "Beijing Homestay 北京民宿",
+    "slideNum": 78
+  },
+  {
+    "name": "Hulunbuir Estate",
+    "cn": "呼伦贝尔庄园",
+    "section": "landscape architectural",
+    "images": [
+      "image372.jpeg",
+      "image373.jpeg",
+      "image374.jpeg",
+      "image375.jpeg",
+      "image376.jpg",
+      "image377.jpeg"
+    ],
+    "slideCount": 1,
+    "lastText": "Hulunbuir Estate 呼伦贝尔庄园",
+    "slideNum": 79
+  },
+  {
+    "name": "HAVAL Auto China",
+    "cn": "哈佛汽车北京国际车展",
+    "section": "exhibition",
+    "images": [
+      "image378.jpg",
+      "image379.jpg",
+      "image380.jpg",
+      "image381.jpg",
+      "image382.jpg",
+      "image383.jpg",
+      "image384.jpg",
+      "image385.jpg",
+      "image386.jpg",
+      "image387.jpg",
+      "image388.jpg",
+      "image389.jpg",
+      "image390.jpg",
+      "image391.jpg"
+    ],
+    "slideCount": 4,
+    "lastText": "哈佛汽车北京国际车展 HAVAL Auto China",
+    "slideNum": 81
+  },
+  {
+    "name": "SINGULATO Auto China",
+    "cn": "奇点汽车北京国际车展",
+    "section": "exhibition",
+    "images": [
+      "image392.jpg",
+      "image393.jpg",
+      "image394.jpg",
+      "image395.jpg",
+      "image396.jpg",
+      "image397.jpg",
+      "image398.jpg",
+      "image399.jpg",
+      "image400.jpeg",
+      "image401.jpg",
+      "image402.jpg",
+      "image403.jpeg",
+      "image404.jpg",
+      "image405.jpeg"
+    ],
+    "slideCount": 4,
+    "lastText": "奇点汽车北京国际车展 SINGULATO Auto China",
+    "slideNum": 85
+  },
+  {
+    "name": "HAVAL Auto China",
+    "cn": "哈佛汽车上海国际车展",
+    "section": "exhibition",
+    "images": [
+      "image406.jpg",
+      "image407.jpg",
+      "image408.jpg",
+      "image409.jpg",
+      "image410.jpg",
+      "image411.jpg",
+      "image412.jpg",
+      "image413.jpg",
+      "image414.jpg"
+    ],
+    "slideCount": 3,
+    "lastText": "哈佛汽车上海国际车展 HAVAL Auto China",
+    "slideNum": 89
+  },
+  {
+    "name": "Infiniti Auto China",
+    "cn": "英菲尼迪 车展（北京 上海 广州）",
+    "section": "exhibition",
+    "images": [
+      "image415.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "英菲尼迪 车展（北京 上海 广州） Infiniti Auto China",
+    "slideNum": 92
+  },
+  {
+    "name": "Infiniti Auto China",
+    "cn": "英菲尼迪 上海车展",
+    "section": "exhibition",
+    "images": [
+      "image416.tif"
+    ],
+    "slideCount": 1,
+    "lastText": "英菲尼迪 上海车展 Infiniti Auto China",
+    "slideNum": 93
+  },
+  {
+    "name": "HAVAL Auto China",
+    "cn": "哈佛汽车广州国际车展",
+    "section": "exhibition",
+    "images": [
+      "image417.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "哈佛汽车广州国际车展 HAVAL Auto China",
+    "slideNum": 94
+  },
+  {
+    "name": "Citroen Peugeot",
+    "cn": "雪铁龙 标志",
+    "section": "exhibition",
+    "images": [
+      "image418.jpg",
+      "image419.jpg",
+      "image420.jpg",
+      "image421.jpg",
+      "image422.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "雪铁龙 标志 Citroen Peugeot",
+    "slideNum": 95
+  },
+  {
+    "name": "Ferrari Thailand Autoshow",
+    "cn": "法拉利 泰国车展",
+    "section": "exhibition",
+    "images": [
+      "image423.jpg",
+      "image424.jpg",
+      "image425.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "法拉利 泰国车展 Ferrari Thailand Autoshow",
+    "slideNum": 96
+  },
+  {
+    "name": "MASERATI Thailand Autoshow",
+    "cn": "玛莎拉蒂 泰国车展",
+    "section": "exhibition",
+    "images": [
+      "image426.jpg",
+      "image427.jpg",
+      "image428.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "玛莎拉蒂 泰国车展 MASERATI Thailand Autoshow",
+    "slideNum": 97
+  },
+  {
+    "name": "China Telecom Exhibition",
+    "cn": "中国电信通讯展",
+    "section": "exhibition",
+    "images": [
+      "image429.jpg",
+      "image430.jpeg",
+      "image431.jpeg",
+      "image432.jpg",
+      "image433.jpg",
+      "image434.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "China Telecom Exhibition 中国电信通讯展",
+    "slideNum": 98
+  },
+  {
+    "name": "TBEA Hannover Messe",
+    "cn": "特变电工汉诺威工业展",
+    "section": "exhibition",
+    "images": [
+      "image435.jpg",
+      "image436.jpg",
+      "image437.jpeg",
+      "image438.jpg",
+      "image439.jpg",
+      "image440.jpeg",
+      "image441.jpg",
+      "image442.jpg",
+      "image443.jpg",
+      "image444.jpg",
+      "image445.jpg",
+      "image446.jpg"
+    ],
+    "slideCount": 2,
+    "lastText": "特变电工汉诺威工业展 TBEA Hannover Messe",
+    "slideNum": 99
+  },
+  {
+    "name": "SHANGHAI AIRPORT",
+    "cn": "上海机场世界航线论坛 2023",
+    "section": "exhibition",
+    "images": [
+      "image447.jpg",
+      "image448.jpg",
+      "image449.jpg",
+      "image450.jpg",
+      "image451.jpg",
+      "image452.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "上海机场世界航线论坛 2023 SHANGHAI AIRPORT",
+    "slideNum": 101
+  },
+  {
+    "name": "GUANGDONG AIRPORT",
+    "cn": "广州白云机场世界航线论坛",
+    "section": "exhibition",
+    "images": [
+      "image453.jpg",
+      "image454.jpg",
+      "image455.jpg",
+      "image456.jpg",
+      "image457.jpg",
+      "image458.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "广州白云机场世界航线论坛 GUANGDONG AIRPORT",
+    "slideNum": 102
+  },
+  {
+    "name": "ICBC SIBOS",
+    "cn": "中国工商银行",
+    "section": "exhibition",
+    "images": [
+      "image459.jpg",
+      "image460.jpg",
+      "image461.jpeg",
+      "image462.jpg",
+      "image463.jpg",
+      "image464.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "中国工商银行 ICBC SIBOS",
+    "slideNum": 103
+  },
+  {
+    "name": "CHINA TOBACCO",
+    "cn": "中国烟草新加坡",
+    "section": "exhibition",
+    "images": [
+      "image465.jpg",
+      "image466.jpg",
+      "image467.jpg",
+      "image468.jpg",
+      "image469.jpg",
+      "image470.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "中国烟草新加坡 CHINA TOBACCO",
+    "slideNum": 104
+  },
+  {
+    "name": "SHANGHAI AIRPORT",
+    "cn": "上海机场世界航线论坛 2024",
+    "section": "exhibition",
+    "images": [
+      "image471.jpg",
+      "image472.jpg",
+      "image473.jpg",
+      "image474.jpg",
+      "image475.jpg",
+      "image476.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "上海机场世界航线论坛 2024 SHANGHAI AIRPORT",
+    "slideNum": 105
+  },
+  {
+    "name": "GMORS EXHIBITION BOOTH",
+    "cn": "继茂香蕉展台模块化设计 2025",
+    "section": "exhibition",
+    "images": [
+      "image477.jpg",
+      "image478.jpeg",
+      "image479.jpg",
+      "image480.jpg",
+      "image481.png",
+      "image482.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "继茂香蕉展台模块化设计 2025 GMORS EXHIBITION BOOTH",
+    "slideNum": 106
+  },
+  {
+    "name": "CHINA MOBILE",
+    "cn": "中国移动宁波智博会",
+    "section": "exhibition",
+    "images": [
+      "image483.png",
+      "image484.png",
+      "image485.png",
+      "image486.png",
+      "image487.png"
+    ],
+    "slideCount": 1,
+    "lastText": "中国移动宁波智博会 CHINA MOBILE",
+    "slideNum": 107
+  },
+  {
+    "name": "GUANGDONG AIRPORT",
+    "cn": "广东机场物流集团",
+    "section": "exhibition",
+    "images": [
+      "image488.jpg",
+      "image489.jpg",
+      "image490.jpg",
+      "image491.jpg",
+      "image492.jpg",
+      "image493.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "广东机场物流集团 GUANGDONG AIRPORT",
+    "slideNum": 108
+  },
+  {
+    "name": "SHANGHAI AIRPORT",
+    "cn": "上海机场世界航线论坛 2025",
+    "section": "exhibition",
+    "images": [
+      "image494.jpg",
+      "image495.jpg",
+      "image496.jpg",
+      "image497.jpg",
+      "image498.jpg",
+      "image499.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "上海机场世界航线论坛 2025 SHANGHAI AIRPORT",
+    "slideNum": 109
+  },
+  {
+    "name": "CPEC GASTECH",
+    "cn": "中石油国际天然气展",
+    "section": "exhibition",
+    "images": [
+      "image500.jpeg",
+      "image501.jpeg",
+      "image502.jpg",
+      "image503.jpg",
+      "image504.jpeg",
+      "image505.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "中石油国际天然气展 CPEC GASTECH",
+    "slideNum": 110
+  },
+  {
+    "name": "ZOTAC",
+    "cn": "台湾电脑展 ZOTAC  COMPUTEX",
+    "section": "exhibition",
+    "images": [
+      "image506.jpg",
+      "image507.jpeg",
+      "image508.jpg",
+      "image509.jpg",
+      "image510.jpg",
+      "image511.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "ZOTAC 台湾电脑展 ZOTAC  COMPUTEX",
+    "slideNum": 111
+  },
+  {
+    "name": "Sennheiser Infocomm",
+    "cn": "森海塞尔试听展",
+    "section": "exhibition",
+    "images": [
+      "image512.jpg",
+      "image513.jpg",
+      "image514.jpg",
+      "image515.jpg",
+      "image516.jpg",
+      "image517.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "森海塞尔试听展 Sennheiser Infocomm",
+    "slideNum": 112
+  },
+  {
+    "name": "UNITED IMAGING BOOTH",
+    "cn": "联影展台规范",
+    "section": "exhibition",
+    "images": [
+      "image518.jpg",
+      "image519.jpg",
+      "image520.jpg",
+      "image521.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "联影展台规范 UNITED IMAGING BOOTH",
+    "slideNum": 113
+  },
+  {
+    "name": "Shanghai airport word Routes 2019",
+    "cn": "上海机场世界航线发展论坛",
+    "section": "exhibition",
+    "images": [
+      "image522.png",
+      "image523.png",
+      "image524.jpg",
+      "image525.jpg",
+      "image526.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "上海机场世界航线发展论坛 Shanghai airport word Routes 2019",
+    "slideNum": 114
+  },
+  {
+    "name": "Shanghai airport word Routes 2018",
+    "cn": "上海机场世界航线发展论坛",
+    "section": "exhibition",
+    "images": [
+      "image527.jpg",
+      "image528.jpg",
+      "image529.jpg",
+      "image530.jpg",
+      "image531.jpg",
+      "image532.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "上海机场世界航线发展论坛 Shanghai airport word Routes 2018",
+    "slideNum": 115
+  },
+  {
+    "name": "Baiyun Airport World Routes",
+    "cn": "广州白云机场世界航线发展论坛",
+    "section": "exhibition",
+    "images": [
+      "image533.jpg",
+      "image534.jpg",
+      "image535.jpg",
+      "image536.jpeg",
+      "image537.jpg",
+      "image538.jpg",
+      "image539.jpg",
+      "image540.jpg",
+      "image541.jpg",
+      "image542.jpg",
+      "image543.jpg",
+      "image544.jpg"
+    ],
+    "slideCount": 2,
+    "lastText": "广州白云机场世界航线发展论坛 Baiyun Airport World Routes",
+    "slideNum": 116
+  },
+  {
+    "name": "TAV World Routes",
+    "cn": "土耳其机场世界航线发展论坛",
+    "section": "exhibition",
+    "images": [
+      "image545.jpeg",
+      "image546.jpeg",
+      "image547.jpg",
+      "image548.jpg",
+      "image549.jpg",
+      "image550.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "土耳其机场世界航线发展论坛 TAV World Routes",
+    "slideNum": 118
+  },
+  {
+    "name": "Frankfurt Book Fair China Pavilion",
+    "cn": "法兰克福书展中国展团",
+    "section": "exhibition",
+    "images": [
+      "image551.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "法兰克福书展中国展团 Frankfurt Book Fair China Pavilion",
+    "slideNum": 119
+  },
+  {
+    "name": "Yunnan Tobacco Exhibition",
+    "cn": "云南烟草全年展会方案",
+    "section": "exhibition",
+    "images": [
+      "image552.jpeg",
+      "image553.jpg",
+      "image554.jpeg",
+      "image555.jpg",
+      "image556.jpg",
+      "image557.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "云南烟草全年展会方案 Yunnan Tobacco Exhibition",
+    "slideNum": 120
+  },
+  {
+    "name": "Shanghai airport word Routes 2016",
+    "cn": "上海机场世界航线发展论坛",
+    "section": "exhibition",
+    "images": [
+      "image558.jpeg",
+      "image559.jpg",
+      "image560.jpg",
+      "image561.jpg",
+      "image562.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "上海机场世界航线发展论坛 Shanghai airport word Routes 2016",
+    "slideNum": 121
+  },
+  {
+    "name": "海康威视 智能及自动化展会 HIKVISON Smart Factory+Aotomation",
+    "cn": "海康威视 智能及自动化展会 HIKVISON Smart Factory+Aotomation",
+    "section": "exhibition",
+    "images": [
+      "image563.jpg",
+      "image564.jpeg",
+      "image565.jpeg",
+      "image566.jpg",
+      "image567.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "海康威视 智能及自动化展会 HIKVISON Smart Factory+Aotomation",
+    "slideNum": 122
+  },
+  {
+    "name": "MAMMUT ISPO",
+    "cn": "猛犸象亚洲户外用品展",
+    "section": "exhibition",
+    "images": [
+      "image568.jpeg",
+      "image569.jpg",
+      "image570.jpg",
+      "image571.jpg",
+      "image572.jpg",
+      "image573.jpeg"
+    ],
+    "slideCount": 1,
+    "lastText": "猛犸象亚洲户外用品展 MAMMUT ISPO",
+    "slideNum": 123
+  },
+  {
+    "name": "MAMMUT Pop-up Store",
+    "cn": "猛犸象快闪店",
+    "section": "exhibition",
+    "images": [
+      "image574.jpg",
+      "image575.jpg",
+      "image576.jpg",
+      "image577.jpg",
+      "image578.jpeg",
+      "image579.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "猛犸象快闪店 MAMMUT Pop-up Store",
+    "slideNum": 124
+  },
+  {
+    "name": "Haier Canton Fair",
+    "cn": "海尔广交会",
+    "section": "exhibition",
+    "images": [
+      "image580.jpg",
+      "image581.jpg",
+      "image582.jpg",
+      "image583.jpg",
+      "image584.jpg",
+      "image585.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "海尔广交会 Haier Canton Fair",
+    "slideNum": 125
+  },
+  {
+    "name": "Growatt Solar Fair In Munich",
+    "cn": "古瑞瓦特慕尼黑太阳能展",
+    "section": "exhibition",
+    "images": [
+      "image586.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "古瑞瓦特慕尼黑太阳能展 Growatt Solar Fair In Munich",
+    "slideNum": 126
+  },
+  {
+    "name": "China Telecom PT Expo China",
+    "cn": "中国电信信息通信展",
+    "section": "exhibition",
+    "images": [
+      "image587.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "中国电信信息通信展 China Telecom PT Expo China",
+    "slideNum": 127
+  },
+  {
+    "name": "Sibos BOC Sibos",
+    "cn": "中国银行",
+    "section": "exhibition",
+    "images": [
+      "image588.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "中国银行 Sibos BOC Sibos",
+    "slideNum": 128
+  },
+  {
+    "name": "Sibos ICBC Sibos",
+    "cn": "中国工商银行",
+    "section": "exhibition",
+    "images": [
+      "image589.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "中国工商银行 Sibos ICBC Sibos",
+    "slideNum": 129
+  },
+  {
+    "name": "Sibos CCB Sibos",
+    "cn": "中国建设银行",
+    "section": "exhibition",
+    "images": [
+      "image590.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "中国建设银行 Sibos CCB Sibos",
+    "slideNum": 130
+  },
+  {
+    "name": "Haojue Motorcycle Show",
+    "cn": "豪爵摩托车展",
+    "section": "exhibition",
+    "images": [
+      "image591.jpg",
+      "image592.jpeg",
+      "image593.jpeg",
+      "image594.jpg",
+      "image595.jpg",
+      "image596.jpeg",
+      "image597.jpeg",
+      "image598.jpg",
+      "image599.jpeg",
+      "image600.jpeg",
+      "image601.jpeg",
+      "image602.jpg",
+      "image603.jpeg"
+    ],
+    "slideCount": 3,
+    "lastText": "豪爵摩托车展 Haojue Motorcycle Show",
+    "slideNum": 131
+  },
+  {
+    "name": "Luyuan Electric Bike Show",
+    "cn": "绿源电动车展",
+    "section": "exhibition",
+    "images": [
+      "image604.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "绿源电动车展 Luyuan Electric Bike Show",
+    "slideNum": 134
+  },
+  {
+    "name": "Bachmann Wind Power",
+    "cn": "巴合曼风能展",
+    "section": "exhibition",
+    "images": [
+      "image605.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "巴合曼风能展 Bachmann Wind Power",
+    "slideNum": 135
+  },
+  {
+    "name": "Expo Comm Beijing",
+    "cn": "瑞斯康达中国国际信息通讯展 P&amp;T",
+    "section": "exhibition",
+    "images": [
+      "image606.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "瑞斯康达中国国际信息通讯展 P&amp;T Expo Comm Beijing",
+    "slideNum": 136
+  },
+  {
+    "name": "Expo Comm Beijing",
+    "cn": "上海贝尔中国国际信息通讯展 P&amp;T",
+    "section": "exhibition",
+    "images": [
+      "image607.jpg",
+      "image608.jpg",
+      "image609.jpg",
+      "image610.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "上海贝尔中国国际信息通讯展 P&amp;T Expo Comm Beijing",
+    "slideNum": 137
+  },
+  {
+    "name": "Motorola solutions",
+    "cn": "摩托罗拉连锁展",
+    "section": "exhibition",
+    "images": [
+      "image611.jpg",
+      "image612.jpg",
+      "image613.jpg",
+      "image614.jpg",
+      "image615.jpg",
+      "image616.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "摩托罗拉连锁展 Motorola solutions",
+    "slideNum": 138
+  },
+  {
+    "name": "Motorola CIFTIS",
+    "cn": "摩托罗拉服务贸易大会",
+    "section": "exhibition",
+    "images": [
+      "image617.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "摩托罗拉服务贸易大会 Motorola CIFTIS",
+    "slideNum": 139
+  },
+  {
+    "name": "Siemens Gamesa Wind Power",
+    "cn": "西门子风能展",
+    "section": "exhibition",
+    "images": [
+      "image618.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "西门子风能展 Siemens Gamesa Wind Power",
+    "slideNum": 140
+  },
+  {
+    "name": "Tedyron financial show",
+    "cn": "天地融新加坡金融展",
+    "section": "exhibition",
+    "images": [
+      "image619.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "天地融新加坡金融展 Tedyron financial show",
+    "slideNum": 141
+  },
+  {
+    "name": "YKK",
+    "cn": "拉链纺织面料展 YKK Inter textile",
+    "section": "exhibition",
+    "images": [
+      "image620.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "YKK 拉链纺织面料展 YKK Inter textile",
+    "slideNum": 142
+  },
+  {
+    "name": "FILORGA Shanghai Beauty Fair",
+    "cn": "菲洛嘉上海美容展",
+    "section": "exhibition",
+    "images": [
+      "image621.tif"
+    ],
+    "slideCount": 1,
+    "lastText": "菲洛嘉上海美容展 FILORGA Shanghai Beauty Fair",
+    "slideNum": 143
+  },
+  {
+    "name": "Nanchang Wanda New Year Decoration",
+    "cn": "南昌万达乐园新年装饰",
+    "section": "exhibition",
+    "images": [
+      "image622.png"
+    ],
+    "slideCount": 1,
+    "lastText": "南昌万达乐园新年装饰 Nanchang Wanda New Year Decoration",
+    "slideNum": 144
+  },
+  {
+    "name": "Yunnan Tobacco Showcase Design",
+    "cn": "云南烟草展具设计",
+    "section": "exhibition",
+    "images": [
+      "image623.JPG",
+      "image624.JPG"
+    ],
+    "slideCount": 1,
+    "lastText": "云南烟草展具设计 Yunnan Tobacco Showcase Design",
+    "slideNum": 145
+  },
+  {
+    "name": "BMW Sports Meet",
+    "cn": "宝马运动会",
+    "section": "event",
+    "images": [
+      "image625.jpeg",
+      "image626.jpeg",
+      "image627.jpeg",
+      "image628.jpg",
+      "image629.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "BMW Sports Meet 宝马运动会",
+    "slideNum": 147
+  },
+  {
+    "name": "FILORGA China Launch",
+    "cn": "菲洛嘉中国新品发布",
+    "section": "event",
+    "images": [
+      "image630.jpg",
+      "image631.jpg",
+      "image632.jpg",
+      "image633.jpg",
+      "image634.jpeg",
+      "image635.jpg",
+      "image636.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "菲洛嘉中国新品发布 FILORGA China Launch",
+    "slideNum": 148
+  },
+  {
+    "name": "MOTO Annual Meeting",
+    "cn": "摩托罗拉年会",
+    "section": "event",
+    "images": [
+      "image637.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "摩托罗拉年会 MOTO Annual Meeting",
+    "slideNum": 149
+  },
+  {
+    "name": "Foton Daimler annual conference",
+    "cn": "福田戴姆勒年会",
+    "section": "event",
+    "images": [
+      "image638.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "福田戴姆勒年会 Foton Daimler annual conference",
+    "slideNum": 150
+  },
+  {
+    "name": "Mars China Manager Summit",
+    "cn": "玛氏中国经理人峰会",
+    "section": "event",
+    "images": [
+      "image639.jpg",
+      "image640.jpg",
+      "image641.jpg",
+      "image642.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "玛氏中国经理人峰会 Mars China Manager Summit",
+    "slideNum": 151
+  },
+  {
+    "name": "Global Entrepreneur",
+    "cn": "环球企业家峰会",
+    "section": "event",
+    "images": [
+      "image643.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "环球企业家峰会 Global Entrepreneur",
+    "slideNum": 152
+  },
+  {
+    "name": "OPPO",
+    "cn": "粉丝大会 OPPO Fans Meeting",
+    "section": "event",
+    "images": [
+      "image644.jpg",
+      "image645.jpg",
+      "image646.jpg",
+      "image647.jpg",
+      "image648.jpg",
+      "image649.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "OPPO 粉丝大会 OPPO Fans Meeting",
+    "slideNum": 153
+  },
+  {
+    "name": "PHOENIX LIFE New Product Sale",
+    "cn": "凤凰人生新品拍卖会",
+    "section": "event",
+    "images": [
+      "image650.jpg"
+    ],
+    "slideCount": 1,
+    "lastText": "凤凰人生新品拍卖会 PHOENIX LIFE New Product Sale",
+    "slideNum": 154
+  }
+]
