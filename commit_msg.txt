@@ -1,1 +1,1 @@
-Mars China: remove second gallery image
+Mobile responsive CSS fix
