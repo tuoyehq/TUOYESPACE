@@ -1,1 +1,1 @@
-Click black area in overlay to close back
+Add touch swipe for lightbox on mobile
