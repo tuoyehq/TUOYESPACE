@@ -1,1 +1,1 @@
-Update thumbnails and add FILORGA Shanghai image
+Fix: restore original image639.jpg, use image639aa.jpg for FILORGA Shanghai
