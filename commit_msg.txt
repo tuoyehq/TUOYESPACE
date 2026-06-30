@@ -1,1 +1,1 @@
-Add touch swipe for lightbox on mobile
+Fix: add missing semicolon in touch event code
