@@ -1,1 +1,1 @@
-Fix: add missing semicolon in touch event code
+Optimize all images to 1920px for faster loading
